@@ -1,0 +1,66 @@
+# x=40
+# y=50
+# if x>y:
+#     print("x is greater")
+# else:
+#     print("y is gteater")
+    
+# x=50
+# y=60
+# if x>y:
+#     print("x is greater")
+# elif x<y:
+#     print("y is larger")
+# else:
+#     print("both are equal")    
+
+# x=50
+# y=100
+# c=75
+# if x>y and x>c:
+#     print("x is largest")
+# elif y>x and y>c:
+#     print("y is largest")    
+# else:
+#     print("c is largest")
+
+# x=int(input("enter the num"))
+# y=int(input("enter the number"))
+# z=int(input("enter the thirt number"))
+# if x>y and x>z:
+#     print("the is largest",x)
+# elif y>x and y>z:
+#     print(y, "is largest")
+# elif z>x and z>y:
+#     print("z is largest")      
+# else:
+#     print("all are equal")
+
+# x=int(input("enter a number:"))
+# if x%2==0:
+#     print("even")
+# else:
+#     print("odd")        
+
+# year=int(input("enter the year"))
+# if (year%4==0 and year%100 !=0) or (year%400==0):
+#     print("leap year")
+# else:
+#     print("non leap year")    
+
+
+num=int(input("enter a number:"))
+  
+
+
+
+
+
+
+
+     
+
+
+
+
+
